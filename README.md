@@ -5,14 +5,14 @@ This is a example paste bin i made in two hours then quit, first day coding in h
 
 idrc how you use it, you dont have to credit me or whatever but jus dont be to much of a skid :sob: (ik this isnt discord fag<3 )
 
-nosleep.gov on discord
+kittenware on discord
 
 ![Logo](https://cdn.discordapp.com/avatars/1145262700469944413/a_5027b02e73c1bec07fbc793a35ad35fa.gif?size=1024)
 
 
 ## Authors
 
-- [@Slasherslut aka nosleep](https://github.com/slasherslut)
+- [@conflicted](https://github.com/slasherslut)
 
 
 ## Features
